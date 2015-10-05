@@ -39,7 +39,7 @@
                 android:layout_width="fill_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/round"
-                android:hint="Source"
+                android:hint="Enter Country"
                 android:id="@+id/autocom"
                 android:singleLine="true"
 
